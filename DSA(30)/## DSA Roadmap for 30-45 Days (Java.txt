@@ -1,0 +1,239 @@
+## DSA Roadmap for 30-45 Days (Java)
+
+This roadmap is designed for beginners who want to master Data Structures and Algorithms (DSA) for placement preparation. Each day includes learning topics, practice problems, and concepts. Ensure you dedicate 3-5 hours daily.
+
+---
+
+### **Week 1: Foundations of Programming and Basic Data Structures**
+
+#### **Day 1: Basics of Java and Input/Output**
+- Learn: Data types, loops, conditionals, functions, and arrays.
+- Practice:
+  - Reverse an array.
+  - Find the maximum and minimum elements in an array.
+  - Check if a number is prime.
+
+#### **Day 2: Time Complexity and Big-O Notation**
+- Learn:
+  - Analyze the time and space complexity of algorithms.
+  - Common complexities: O(1), O(log n), O(n), O(n^2).
+- Practice:
+  - Count the number of digits in a number.
+  - Sum of first N natural numbers.
+
+#### **Day 3: Arrays**
+- Learn: Traversal, insertion, deletion, and search operations.
+- Practice:
+  - Rotate an array.
+  - Move all zeroes to the end of the array.
+  - Kadane's Algorithm (Maximum Subarray Sum).
+
+#### **Day 4: Strings**
+- Learn: Character arrays, string manipulation.
+- Practice:
+  - Reverse a string.
+  - Check if a string is a palindrome.
+  - Count the frequency of characters in a string.
+
+#### **Day 5: Recursion Basics**
+- Learn: Concept, base cases, and recursion trees.
+- Practice:
+  - Factorial of a number.
+  - Fibonacci series.
+  - Tower of Hanoi.
+
+#### **Day 6: Searching Algorithms**
+- Learn: Linear Search, Binary Search.
+- Practice:
+  - Implement Linear and Binary Search.
+  - Find the first and last occurrence of an element in a sorted array.
+  - Find the square root of a number using Binary Search.
+
+#### **Day 7: Sorting Algorithms**
+- Learn: Bubble Sort, Selection Sort, Insertion Sort.
+- Practice:
+  - Implement each sorting algorithm.
+  - Sort an array of 0s, 1s, and 2s (Dutch National Flag Problem).
+
+---
+
+### **Week 2: Intermediate Data Structures**
+
+#### **Day 8: Advanced Sorting Algorithms**
+- Learn: Merge Sort, Quick Sort.
+- Practice:
+  - Implement Merge Sort and Quick Sort.
+  - Count inversions in an array.
+
+#### **Day 9: Hashing Basics**
+- Learn: HashMaps and HashSets.
+- Practice:
+  - Two Sum problem.
+  - Longest Subarray with Zero Sum.
+  - Count distinct elements in an array.
+
+#### **Day 10: Stacks (Part 1)**
+- Learn: Stack operations and implementation.
+- Practice:
+  - Implement a stack using arrays.
+  - Reverse a string using a stack.
+  - Check for balanced parentheses in an expression.
+
+#### **Day 11: Stacks (Part 2)**
+- Practice:
+  - Next Greater Element.
+  - Sort a stack using another stack.
+  - Largest Rectangle in Histogram.
+
+#### **Day 12: Queues**
+- Learn: Queue operations and implementation.
+- Practice:
+  - Implement a queue using arrays.
+  - Implement a circular queue.
+  - Generate binary numbers from 1 to N using a queue.
+
+#### **Day 13: Linked Lists (Part 1)**
+- Learn: Singly Linked List, basic operations.
+- Practice:
+  - Reverse a linked list.
+  - Detect a cycle in a linked list.
+  - Find the middle element of a linked list.
+
+#### **Day 14: Linked Lists (Part 2)**
+- Learn: Doubly Linked List, basic operations.
+- Practice:
+  - Implement a doubly linked list.
+  - Add two numbers represented by linked lists.
+  - Merge two sorted linked lists.
+
+---
+
+### **Week 3: Advanced Data Structures and Algorithms**
+
+#### **Day 15: Binary Trees (Part 1)**
+- Learn: Tree traversal techniques (Inorder, Preorder, Postorder).
+- Practice:
+  - Print all paths from root to leaf.
+  - Find the height of a binary tree.
+
+#### **Day 16: Binary Trees (Part 2)**
+- Practice:
+  - Lowest Common Ancestor.
+  - Check if a tree is symmetric.
+  - Level Order Traversal.
+
+#### **Day 17: Binary Search Trees (BST)**
+- Learn: Properties of BST, insertion, and deletion.
+- Practice:
+  - Validate if a tree is a BST.
+  - Find the kth smallest element in a BST.
+
+#### **Day 18: Heaps**
+- Learn: Min-Heap and Max-Heap, heap operations.
+- Practice:
+  - Implement a priority queue using a heap.
+  - Find the k largest elements in an array.
+  - Merge k sorted arrays.
+
+#### **Day 19: Graphs (Part 1)**
+- Learn: Representations (Adjacency Matrix/List), BFS.
+- Practice:
+  - Implement BFS.
+  - Find the shortest path in an unweighted graph.
+
+#### **Day 20: Graphs (Part 2)**
+- Learn: DFS, connected components.
+- Practice:
+  - Implement DFS.
+  - Detect cycles in an undirected graph.
+  - Number of islands problem.
+
+#### **Day 21: Graphs (Part 3)**
+- Learn: Dijkstra’s Algorithm, Topological Sorting.
+- Practice:
+  - Implement Dijkstra’s Algorithm.
+  - Find the shortest path in a weighted graph.
+  - Perform topological sorting.
+
+---
+
+### **Week 4: Dynamic Programming and Problem Solving**
+
+#### **Day 22: Introduction to Dynamic Programming (DP)**
+- Learn: Concept of overlapping subproblems, memoization vs. tabulation.
+- Practice:
+  - Fibonacci series using DP.
+  - Climbing Stairs problem.
+  - Longest Common Subsequence.
+
+#### **Day 23: DP Problems (Part 1)**
+- Practice:
+  - 0/1 Knapsack Problem.
+  - Subset Sum Problem.
+  - Coin Change Problem.
+
+#### **Day 24: DP Problems (Part 2)**
+- Practice:
+  - Longest Increasing Subsequence.
+  - Matrix Chain Multiplication.
+  - Edit Distance.
+
+#### **Day 25: DP Problems (Part 3)**
+- Practice:
+  - Maximum Product Subarray.
+  - Minimum Path Sum.
+  - Word Break Problem.
+
+---
+
+### **Week 5: Advanced Topics and Mock Interviews**
+
+#### **Day 26: Backtracking**
+- Learn: Concept and examples.
+- Practice:
+  - N-Queens Problem.
+  - Rat in a Maze Problem.
+  - Sudoku Solver.
+
+#### **Day 27: Greedy Algorithms**
+- Learn: Concept and examples.
+- Practice:
+  - Activity Selection Problem.
+  - Huffman Encoding.
+  - Minimum Spanning Tree (Kruskal’s and Prim’s Algorithms).
+
+#### **Day 28: Divide and Conquer**
+- Learn: Concept and examples.
+- Practice:
+  - Find the majority element in an array.
+  - Maximum subarray sum using Divide and Conquer.
+
+#### **Day 29: Sliding Window and Two Pointer Techniques**
+- Practice:
+  - Maximum sum of a subarray of size K.
+  - Longest Substring Without Repeating Characters.
+  - Trapping Rain Water Problem.
+
+#### **Day 30: Mock Interview Day**
+- Solve a mix of problems from different topics.
+- Time yourself and simulate a real interview environment.
+
+---
+
+### **Optional (Days 31-45)**
+- Revise concepts and solve harder problems from each topic.
+- Participate in coding contests on platforms like LeetCode, Codeforces, or HackerRank.
+
+---
+
+### **Resources**
+- **Books:**
+  - "Introduction to Algorithms" by Cormen (CLRS).
+  - "Data Structures and Algorithms Made Easy" by Narasimha Karumanchi.
+- **Online Platforms:**
+  - GeeksforGeeks
+  - LeetCode
+  - HackerRank
+
+Stay consistent and revise regularly. Happy coding!
+
